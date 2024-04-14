@@ -1,0 +1,2 @@
+PriceSmart-Kingston-pricesmart_test.csv-<pricemart_id>-<pricemart_password>/19000001745,19000001740
+Loshusan-portmore-loshusan_test.csv-<loshusan_id>-<loshusan_password>/20000000422

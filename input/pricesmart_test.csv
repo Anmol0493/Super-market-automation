@@ -1,0 +1,12 @@
+Order_delivery_date,order_number,entity_id,order_status,first_name,last_name,customer_email,item_sku,item_name,qty_ordered,cost_incl_markup,markup_incl_tax,row_total_incl_tax,cost_no_tax
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,425887,Versa  Dishwashing Liquid   5 L,1,1355.85,1559.23,1559.23,1179
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,422958,"Babybel Mini Cheese 36 Units, 21 g / 0.75 oz",1,3391.35,3900.05,3900.05,2949
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,259314,"Belgioioso Mascarpone Tub, 454 g  16 oz",1,1148.85,1321.18,1321.18,999
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,29042,"Member's Selection Cheese Party Tray, 907 g  2 lb",1,2413.85,2775.93,2775.93,2099
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,298508,"President Feta Crumbled, 680 g 24 oz",1,1723.85,1982.43,1982.43,1499
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,29048,"Member's Selection MS Pepper Jack Cheese Sliced, 907 g / 2 lb",1,1608.85,1850.18,1850.18,1399
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,170244,"Anchor Cheddar Cheese, 1 kg  2.2 lb",1,1999.85,2299.83,2299.83,1739
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,413551,"Selection Photo Paper 120 Sheets",1,1999.85,2299.83,2299.83,1739
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,470774,"Emerson Projector with 254 cm / 100 Portable Screen and Carrying Case",1,1999.85,2299.83,2299.83,1739
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,457771,"Oster 12 000 BTU/HR Portable Air Conditioner with Dehumidifier Function",1,1999.85,2299.83,2299.83,1739
+12/19/2023,19000001745,63130,invoiced,Elisabeth,Mondon,elisabeth@smithwarner.com,465785,"Samsung Refrigerator Top Freezer 479 L / 16.9 cu",1,1999.85,2299.83,2299.83,1739
